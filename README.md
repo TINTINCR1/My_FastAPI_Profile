@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://blog.postman.com/wp-content/uploads/2024/03/How-to-build-an-API-in-Python.jpg"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcfheOVuVzb-yU8SyoHZbt4HrZ4WX98oginA&s"/>
 </p>
 
 # ⚡️ My FastAPI Portfolio Web App
